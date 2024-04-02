@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS contador {
+
+    infrastructure: Centralised
+
+    agents: agentCont;agentDesc;tabuada;
+}
+

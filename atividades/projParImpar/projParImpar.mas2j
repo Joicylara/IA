@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS projParImpar {
+
+    infrastructure: Centralised
+
+    agents: /*agentParImpar;*/ agendDivisivel;
+}
+

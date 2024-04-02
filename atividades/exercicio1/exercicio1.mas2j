@@ -1,0 +1,20 @@
+/* Jason Project */
+
+/*
+	1) Crie um agente monitor, esse agente tem um plano para imprimir uma mensagem "Olá, Tudo bem?".
+	2) No agente monitor acima adicione que ele irá imprimir a mensagem apenas se ele tiver a crença que não é segunda.
+	3) Adicione a crença que não é segunda.*/
+
+MAS exercicio1 {
+
+
+
+    infrastructure: Centralised
+
+
+
+    agents:
+ agentMonitor;
+}
+
+

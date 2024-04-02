@@ -1,0 +1,19 @@
+/* Jason Project */
+
+/*5)Crie dois agentes (pessoa e clima), agente clima contêm tipos possíveis de clima/tempo (sol, chuva, neve...), 
+agente pessoa receberá a crença do agente clima, com isso ele tem a possibilidade de alguns planos,
+como por exemplo, se estiver sol ele ativa plano de ir a praia, se estiver nevando ativa ler um livro...  
+Faça planos para todas as possibilidades de clima.*/
+
+MAS exercicio5 {
+
+
+
+    infrastructure: Centralised
+
+
+
+    agents: agentPessoa; agentClima;
+}
+
+

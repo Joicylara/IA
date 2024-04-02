@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS projetoAchieve {
+
+    infrastructure: Centralised
+
+    agents: kate; bob;
+}
+

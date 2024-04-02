@@ -1,0 +1,16 @@
+/* Jason Project */
+
+
+
+MAS exercicio5 {
+
+
+
+    infrastructure: Centralised
+
+
+
+    agents: agentPessoa; agentClima;
+}
+
+

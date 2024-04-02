@@ -1,0 +1,17 @@
+/* Jason Project */
+
+/*6) Agente Pessoa que envia pergunta para agente calculadora de um calculo qualquer, a resposta deve ser impressa pelo agente pessoa.*/
+
+MAS exercicio6 {
+
+
+
+    infrastructure: Centralised
+
+
+
+    agents:
+ agentPessoa; agentCalculadora;
+}
+
+

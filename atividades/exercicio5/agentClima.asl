@@ -1,0 +1,6 @@
+// Agent agentClima in project exercicio5.mas2j
+
+
+tempo(sol).
+tempo(chuva).
+tempo(neve).

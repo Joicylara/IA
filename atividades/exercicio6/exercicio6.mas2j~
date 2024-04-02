@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS exercicio6 {
+
+    infrastructure: Centralised
+
+    agents: agentPessoa; agentCalculadora;
+}
+
