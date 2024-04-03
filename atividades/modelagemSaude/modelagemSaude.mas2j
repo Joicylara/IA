@@ -1,0 +1,16 @@
+/* Jason Project */
+
+
+
+MAS modelagemSaude {
+
+
+
+    infrastructure: Centralised
+
+
+
+    agents: agentSaude; agentPaciente;
+}
+
+

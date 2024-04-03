@@ -1,0 +1,29 @@
+// Agent agentSaude in project modelagemSaude.mas2j
+
+
+
+/*2) Modelagem do comportamento de um agente de saúde: O agente deve ser capaz 
+de monitorar a saúde de uma pessoa, identificar sinais de doenças e aconselhar 
+a pessoa a procurar tratamento médico.
+
+Crenças: O agente tem crenças sobre sintomas, doenças e tratamentos disponíveis. 
+Ele também tem crenças sobre as necessidades e preferências da pessoa em relação 
+a sua saúde.
+
+Ações: O agente pode monitorar os sintomas da pessoa, recomendar tratamentos, 
+sugerir consultas médicas e fazer acompanhamento da saúde da pessoa.
+
+Planos: O agente pode ter planos para coletar informações sobre a 
+saúde da pessoa, diagnosticar doenças, recomendar tratamentos específicos e 
+monitorar a saúde da pessoa ao longo do tempo.*/
+
+sintomas.
+doencas.
+tratamentoDisponivel.
+necessidade.
+preferencia.
+
+!coletarInformacoes.
+
++!coletarInformacoes <-
+	.print("Ola, quais sao os sintomas?").
