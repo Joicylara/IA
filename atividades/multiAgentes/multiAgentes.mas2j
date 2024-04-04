@@ -1,0 +1,13 @@
+/* Jason Project */
+
+/*agent1 pede para o agent2 abrir a porta e para o agent3 acender a luz*/
+/*o agent2 pede sorvete para o agent1 e uma colher para o agent3*/
+/*o agente3 pede uma salada de frutas para o agente1 e uma agua para o agente2*/
+
+MAS multiAgentes {
+
+    infrastructure: Centralised
+
+    agents: agent1;agent2;agent3; agent;
+}
+
