@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS animalEstimacao {
+
+    infrastructure: Centralised
+
+    agents: agentCuidador; agentAnimal;
+}
+
