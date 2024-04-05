@@ -1,0 +1,17 @@
+/* Jason Project */
+
+/*4) Crie uma garrafa térmica inteligente (chá ou café), onde a garrafa 
+não permite que o liquido acabe, informando a um responsável estado da garrafa.*/
+
+MAS quest_04_Joicy {
+
+
+
+    infrastructure: Centralised
+
+
+
+    agents: garrafa;pessoa;
+}
+
+

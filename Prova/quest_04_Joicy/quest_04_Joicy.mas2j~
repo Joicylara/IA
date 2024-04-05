@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS quest_04_Joicy {
+
+    infrastructure: Centralised
+
+    agents:garrafa;pessoa;
+}
+

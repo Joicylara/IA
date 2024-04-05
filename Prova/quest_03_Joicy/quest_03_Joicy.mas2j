@@ -1,0 +1,15 @@
+/* Jason Project */
+
+/*3) Imagine uma situação onde 3 agentes especializados em tarefas específicas 
+precisam cooperar para executar uma determinada ação. Imagine (ou pesquisa) 
+um protocolo de comunicação entre os agentes para a realização da cooperação. 
+Determine essa tarefa (crie) que será compartilhada. Utilize mensagens para 
+informar ao ambiente que está executando essa tarefa.*/
+
+MAS quest_03_Joicy {
+
+    infrastructure: Centralised
+
+    agents: agent; agent1; agent2; agent3;
+}
+

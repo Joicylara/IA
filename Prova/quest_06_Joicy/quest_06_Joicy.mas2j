@@ -1,0 +1,12 @@
+/* Jason Project */
+
+/*6) Agente robô que anda aleatoriamente e recarrega bateria quando estiver 
+com a energia baixa.*/
+
+MAS quest_06_Joicy {
+
+    infrastructure: Centralised
+
+    agents: agentRobo;
+}
+
